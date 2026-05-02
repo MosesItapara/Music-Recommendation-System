@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Large model files
+*.pkl
+*.csv
+
+# Raw data/model files
+df
+similarity
+
+# Environment variables
+.env
+
+# Cache
+.cache/
